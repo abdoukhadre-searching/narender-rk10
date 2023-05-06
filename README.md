@@ -1,5 +1,5 @@
 <!--
-**narender-rk10/narender-rk10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abdoukhadre-searching/abdoukhadre-searching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> Hi 👋 , I'm Narender Keswani <br/></h2> 
-  <a href="https://github.com/narender-rk10" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/narender-rk10?label=Github%20followers&style=for-the-badge">
+<h2 align="center"> Hi 👋 , I'm Abdoukhadre Ndiaye <br/></h2> 
+  <a href="https://github.com/abdoukhadre-searching" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/abdoukhadre-searching?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
-  <a href="https://github.com/narender-rk10" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=narender-rk10&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+  <a href="https://github.com/abdoukhadre-searching" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=abdoukhadre-searching&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>   
                              
                            
- <h1>Tech Stack</h1>
+ <h1>Software Engineer Stack</h1>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 <h1>GitHub Stats! 📊</h1>
 <Br>
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=narender-rk10&show_icons=true&locale=en)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=abdoukhadre-searching&show_icons=true&locale=en)
 
-![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=narender-rk10&show_icons=true&locale=en&layout=compact)
+![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=abdoukhadre-searching&show_icons=true&locale=en&layout=compact)
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=narender-rk10&)
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=abdoukhadre-searching&)
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=narender-rk10&hide_border=true&area=true)
+<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=abdoukhadre-searching&hide_border=true&area=true) -->
 
